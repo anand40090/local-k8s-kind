@@ -15,7 +15,7 @@ Before installing Kind, Docker Engine needs to be installed on Ubuntu.
 Follow the instructions mentioned [here](https://docs.docker.com/engine/install/ubuntu/) to install Docker Engine.
 
 ### Step 2: Install Kind
-Kind can be installed using the instructions mentioned here.
+Kind can be installed using the instructions mentioned [here](https://kind.sigs.k8s.io/docs/user/quick-start/#installation).
 
 ### Step 3: Install Kubectl
 Kubectl is the command-line tool for managing Kubernetes clusters. 
